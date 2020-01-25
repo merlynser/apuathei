@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://heighabie.bwidlarz.com/sitemap.xml
